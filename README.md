@@ -1,2 +1,2 @@
-# Chetan-Projects
+# Book renting website
 Java projects
